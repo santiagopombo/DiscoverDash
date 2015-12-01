@@ -1,4 +1,4 @@
 applications:
-- name: DoggyAdoption
-  description : Simple demo app that has fun dog pictures.
+- name: DiscoverDash
+  description : Simple demo app shows a dashboard.
   memory: 96M
