@@ -1,6 +1,4 @@
 applications:
 - name: DiscoverDash
   description : Simple demo app shows a dashboard.
-  services:
-    redis-discover: redis
-  memory: 96M
+ 
