@@ -2,5 +2,3 @@ applications:
 - name: Dashboard
   description : Simple demo app shows a dashboard.
   mem: 96M
-
- 
