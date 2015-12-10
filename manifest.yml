@@ -1,4 +1,4 @@
 applications:
-- name: DiscoverDash
+- name: MongoDashboard
   description : Simple demo app shows a dashboard.
   mem: 96M
